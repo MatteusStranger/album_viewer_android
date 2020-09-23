@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_449a7f0a50756acd37206cc8f5f164bcf112d30c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_99c1ccd53a7fa88549c32ac544faa9e96cd17557\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_de95dadc48af2194b93949a40322a4d224ea529b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_3d8800baf10e96363bfd55dc9aaa3838449cdaf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fa22a1941ea50c968e83102da3b58a7c741bb06c">
+        <dex dex="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_128b2b5b040f8c1769d8cdfe27f432f7c9bc964f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="025a09ad780370fe473133747c64c0d63b59da06">
+        <dex dex="C:\Users\Luiz Carlos\Desktop\PasswordAppFinal\PasswordApp\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ef409ff3f5b5a021e70cb5e6fbfbc7977ccada1d\classes.dex" />
+    </item>
+
+</items>
